@@ -1,5 +1,5 @@
 # PageRank
-- Pagerank simple
+- simple Pagerank 
 
 PageRank is a function that assigns a real number to each page in the Web
 (or at least to that portion of the Web that has been crawled and its links
