@@ -27,3 +27,4 @@ represents the introduction, with probability 1 − β, of a new random surfer a
 a random page.
 
 
+![page rank](https://image.slidesharecdn.com/socialnetworkanalysiswithpython-141121195454-conversion-gate02/95/graph-analyses-with-python-and-networkx-38-638.jpg?cb=1457750692)
